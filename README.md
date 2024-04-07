@@ -1,3 +1,3 @@
 # im xmavv 👨‍💻
 #### intrested in web development
-#### currently studing at Politechnika Wroclawska
+#### currently studing computer science at Politechnika Wroclawska
