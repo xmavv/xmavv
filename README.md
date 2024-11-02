@@ -12,7 +12,7 @@
 
 ## stuff I know 🤓
 
-[![My Skills]([https://skillicons.dev/icons?i=js,html,css,wasm](https://skillicons.dev/icons?i=js,html,css,github,git,ts,react,redux,sass,tailwind,styledcomponents))](https://skillicons.dev)
+[![My Skills]([https://skillicons.dev/icons?i=js,html,css,wasm](https://skillicons.dev/icons?i=js,html,css,github,git,ts,react,redux,sass,tailwind,styledcomponents))
 
 ## want to learn 🧠
 
