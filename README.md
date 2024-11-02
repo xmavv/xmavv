@@ -12,8 +12,8 @@
 
 ## stuff I know 🤓
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,github,git,ts,react,redux,sass,tailwind,styledcomponents)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,github,git,ts,react,redux,sass,tailwind,styledcomponents&perline=5)
 
 ## want to learn 🧠
 
-![My Skills](https://skillicons.dev/icons?i=vim,nodejs,angular,vue,threejs)
+![My Skills](https://skillicons.dev/icons?i=vim,nodejs,angular,vue,threejs,nextjs)
