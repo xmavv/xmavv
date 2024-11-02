@@ -1,4 +1,4 @@
-#hi! I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=xmavv" alt="Typing SVG" /></a> 👨‍💻
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&pause=1000&repeat=false&width=435&lines=hi!+I'm+xmavv%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 ## general info
 
