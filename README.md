@@ -5,6 +5,7 @@
 😇 currently studying computer science at Politechnika Wrocławska, intrested in frontend / web development
 
 🙋‍♂️ Check more about me and contact me at [mateuszoleksy.pl](https://) (not done yet)
+- [behance](https://www.behance.net/mavrgb)
 
 ## now learning...
 
