@@ -2,9 +2,10 @@
 
 ## general info
 
-😇 currently studying computer science at Politechnika Wrocławska, intrested in frontend / web development
+😇 currently studying computer science at Politechnika Wrocławska, intrested in frontend development
 
-🙋‍♂️ Check more and contact me at [mateuszoleksy.netlify.app](https://mateuszoleksy.netlify.app/)
+🙋‍♂️ Check more and contact me at 
+# [mateuszoleksy.netlify.app](https://mateuszoleksy.netlify.app/)
 
 ## now learning...
 
