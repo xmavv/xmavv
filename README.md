@@ -1,5 +1,3 @@
-# [mateuszoleksy.netlify.app](https://mateuszoleksy.netlify.app/)
-
 ## general info
 
 😇 currently studying computer science at Politechnika Wrocławska, intrested in frontend development
