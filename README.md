@@ -1,11 +1,10 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&pause=1000&repeat=false&width=435&lines=hi!+I'm+xmavv%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+# [mateuszoleksy.netlify.app](https://mateuszoleksy.netlify.app/)
 
 ## general info
 
 😇 currently studying computer science at Politechnika Wrocławska, intrested in frontend development
 
-🙋‍♂️ Check more and contact me at 
-# [mateuszoleksy.netlify.app](https://mateuszoleksy.netlify.app/)
+🙋‍♂️ Check more and contact me at [mateuszoleksy.netlify.app](https://mateuszoleksy.netlify.app/)
 
 ## now learning...
 
