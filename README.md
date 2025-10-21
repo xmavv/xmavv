@@ -1,6 +1,6 @@
 ## general info
 
-😇 3rd year student of Computer engineering at University of Science and Technology in Wroclaw, intrested in web development
+😇 4th year student of Computer engineering at University of Science and Technology in Wroclaw, intrested in web development
 
 🙋‍♂️ check more and contact me at [mateuszoleksy.netlify.app](https://mateuszoleksy.netlify.app/)
 
