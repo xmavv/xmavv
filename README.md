@@ -7,6 +7,8 @@
 ## now learning...
 
 ✅ next.js
+✅ docker
+✅ fastapi
 
 ## stuff I know 🤓
 
