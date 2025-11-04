@@ -1,4 +1,4 @@
-## general info
+## Mateusz Oleksy
 
 😇 4th year student of Computer engineering at University of Science and Technology in Wroclaw, intrested in web development
 
