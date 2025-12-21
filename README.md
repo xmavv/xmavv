@@ -16,4 +16,4 @@
 
 ## want to learn 🧠
 
-![My Skills](https://skillicons.dev/icons?i=vim,angular,vue,threejs,nextjs&perline=5)
+![My Skills](https://skillicons.dev/icons?i=vim,angular,vue,threejs&perline=5)
