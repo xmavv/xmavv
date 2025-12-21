@@ -1,12 +1,14 @@
 ## Mateusz Oleksy
 
-😇 4th year student of Computer engineering at University of Science and Technology in Wroclaw, intrested in web development
+👨‍💻 web developer
+
+😇 4th year student of Computer engineering at University of Science and Technology in Wroclaw
 
 🙋‍♂️ check more and contact me at [mateuszoleksy.netlify.app](https://mateuszoleksy.netlify.app/)
 
 ## now learning...
 
-✅ next.js
+✅ nginx
 ✅ docker
 ✅ fastapi
 
