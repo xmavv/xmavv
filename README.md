@@ -2,7 +2,7 @@
 
 👨‍💻 web developer
 
-😇 4th year student of Computer engineering at University of Science and Technology in Wroclaw
+😇 4th year student of Computer Engineering at University of Science and Technology in Wroclaw (masters degree)
 
 🙋‍♂️ check more and contact me at [mateuszoleksy.netlify.app](https://mateuszoleksy.netlify.app/)
 
