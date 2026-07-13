@@ -8,9 +8,7 @@
 
 ## now learning...
 
-✅ nginx
-✅ docker
-✅ fastapi
+✅ playwright
 
 ## stuff I know 🤓
 
@@ -18,4 +16,4 @@
 
 ## want to learn 🧠
 
-![My Skills](https://skillicons.dev/icons?i=vim,angular,vue,threejs,electron)
+![My Skills](https://skillicons.dev/icons?i=angular,vue,threejs,electron)
