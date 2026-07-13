@@ -1,8 +1,8 @@
 ## Mateusz Oleksy
 
-👨‍💻 web developer
+👨‍💻 Nokia web developer
 
-😇 4th year student of Computer Engineering at University of Science and Technology in Wroclaw (masters degree)
+😇 5th year student of Computer Engineering at University of Science and Technology in Wroclaw (masters degree)
 
 🙋‍♂️ check more and contact me at [mateuszoleksy.netlify.app](https://mateuszoleksy.netlify.app/)
 
