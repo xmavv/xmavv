@@ -12,7 +12,7 @@
 
 ## stuff I know 🤓
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,github,git,react,redux,ts,sass,tailwind,styledcomponents,nextjs,docker,figma,nginx,sqlite,postgres)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,github,git,react,redux,ts,sass,tailwind,styledcomponents,nextjs,docker,figma,nginx,sqlite,postgres,fastapi,vim)
 
 ## want to learn 🧠
 
